@@ -21,9 +21,11 @@ body {
 }
 
 @media (max-width:768px) {
+
   .main-picture-wrapper {
     text-align: center;
   }
+
 }
 
 .wrapper {
@@ -156,8 +158,6 @@ input, button {
 .delete-img:hover {
   transform: rotateZ(0);
 }
-
-
 
 /* Edit Task */
 .task-item .task-input {
