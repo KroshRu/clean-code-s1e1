@@ -43,6 +43,7 @@ body {
 
 .task-adding-wrapper {
   display: flex;
+  margin-top: 20px;
 }
 
 ul {
